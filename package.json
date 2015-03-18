@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My first test of making npm module.",
   "main": "index.js",
+  "repository": "https://github.com/keeponbeat/test-npm-module"
   "scripts": {
     "test": "node test.js"
   },
