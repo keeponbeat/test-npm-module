@@ -1,0 +1,14 @@
+{
+  "name": "test-npm-module",
+  "version": "1.0.0",
+  "description": "My first test of making npm module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Toru Murakami",
+  "license": "MIT",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
+}
